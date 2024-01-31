@@ -36,7 +36,7 @@ Gera o código a partir da árvore sintática gerada do compilador. Os arquivos 
 
 ### Execução do Código Gerado 🚀
 ```bash
-javac MaquinaPilha codigoGerado
+java MaquinaPilha codigoGerado
 ```
 Isso deve gerar e executar as instruções da Máquina de Pilha para a expressão fornecida no teste2 ou teste.
 
