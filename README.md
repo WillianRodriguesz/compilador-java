@@ -18,7 +18,7 @@ cat teste
 ```
 ### Execução 🚀
 ```bash
-javac Compilador teste2
+java Compilador teste2
 ```
 Este comando compila os arquivos Java e executa o compilador didático com a expressão fornecida em "teste2" ou "teste".
 
@@ -30,7 +30,7 @@ javac *.java
 ```
 ### Geração do Código a partir do Compilador 🚀
 ```bash
-javac Compilador teste2 > codigoGerado
+java Compilador teste2 > codigoGerado
 ```
 Gera o código a partir da árvore sintática gerada do compilador. Os arquivos com as expressões a serem alteradas são "teste" ou "teste2" para adicionar novas expressões e testar a máquina de pilha.
 
